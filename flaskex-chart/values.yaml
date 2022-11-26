@@ -1,4 +1,0 @@
-replicas: 1
-image: ikambarov/flaskex
-tag: latest
-serviceType: LoadBalancer
